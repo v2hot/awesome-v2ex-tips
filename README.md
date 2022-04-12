@@ -35,6 +35,8 @@
   - [[/t/198074] 可能是 V2EX 最好用的插件](https://www.v2ex.com/t/198074)
   - [https://github.com/sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus)
 
+- [[/t/99225] 关于在 V2EX 过滤信息的几种方式](https://www.v2ex.com/t/99225)
+
 - [[/t/10686] TIP - 提问指南](https://www.v2ex.com/t/10686)
 
 - [[/t/10553] FAQ - DEACTIVATE](https://www.v2ex.com/t/10553)
