@@ -13,6 +13,7 @@
   - [[/t/846267] [必学] V2EX 发布图文帖子的方法](https://www.v2ex.com/t/846267)
   - [[/t/601213] v2ex 图片上传终极解决方法](https://www.v2ex.com/t/601213)
   - [[/t/408727] 攻略：教你如何在 V2EX 发图片/插链接/插代码/插视频（第二版）](https://www.v2ex.com/t/408727)
+  - [[/t/332852] 今天让我以最简单明了的方式教你如何在 V2EX 贴图片，毕竟总是有新人不会](https://www.v2ex.com/t/332852)
 
 - [[/t/822425] v2ex 主题样式版本更新，支持亮色与暗色 🌙☀️，支持自定义背景。](https://www.v2ex.com/t/822425)
 
@@ -36,6 +37,10 @@
   - [https://github.com/sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus)
 
 - [[/t/99225] 关于在 V2EX 过滤信息的几种方式](https://www.v2ex.com/t/99225)
+
+- [[/t/26329] TIP - 对话守则](https://www.v2ex.com/t/26329)
+
+- [[/t/10706] TIP - V2EX 不欢迎全文转载其他地方的文章](https://www.v2ex.com/t/10706)
 
 - [[/t/10686] TIP - 提问指南](https://www.v2ex.com/t/10686)
 
