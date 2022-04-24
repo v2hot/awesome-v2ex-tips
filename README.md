@@ -8,6 +8,8 @@
 
 ## 列表
 
+- [[/t/848726] 写了个油猴脚本让 V2EX 拥有 SPA 单页的无刷新类似路由切换页面的 Feel](https://www.v2ex.com/t/848726)
+
 - **图片上传**
 
   - [[/t/846267] [必学] V2EX 发布图文帖子的方法](https://www.v2ex.com/t/846267)
@@ -47,6 +49,24 @@
 - [[/t/10553] FAQ - DEACTIVATE](https://www.v2ex.com/t/10553)
 
 - [About V2EX](https://www.v2ex.com/about)
+
+## 🔥 V2HOT - 每日 V2EX 最热主题 🔥
+
+V2HOT 是可以免费查看每日 V2EX 最热主题历史记录的网站。
+
+欢迎[点赞](https://github.com/v2hot/v2hot.github.io)，收藏。
+
+GitHub: <https://github.com/v2hot/v2hot.github.io>
+
+可以通过下列域名访问，选择访问最快的域名。
+
+- <https://v2hot.github.io/>
+- <https://v2hot.pipecraft.net/>
+- <https://v2exhot.web.app/>
+- <https://v2hot.now.sh/>
+- <https://v2hot.vercel.app/>
+- <https://v2exhot.now.sh/>
+- <https://v2exhot.vercel.app/>
 
 ## License
 
