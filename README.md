@@ -8,6 +8,10 @@
 
 ## 列表
 
+- [[/t/851399] 分享一款自用的 V2EX 仿微信风格 CSS](https://www.v2ex.com/t/851399)
+
+  - [https://github.com/CrazyMelody/v2ex_style](https://github.com/CrazyMelody/v2ex_style)
+
 - [[/t/848726] 写了个油猴脚本让 V2EX 拥有 SPA 单页的无刷新类似路由切换页面的 Feel](https://www.v2ex.com/t/848726)
 
 - **图片上传**
