@@ -8,6 +8,8 @@
 
 ## 列表
 
+- [[/t/883252] V2exOS - 用 SwiftUI 写了一个 V2EX 客户端](https://www.v2ex.com/t/883252)
+
 - [[/t/851399] 分享一款自用的 V2EX 仿微信风格 CSS](https://www.v2ex.com/t/851399)
 
   - [https://github.com/CrazyMelody/v2ex_style](https://github.com/CrazyMelody/v2ex_style)
