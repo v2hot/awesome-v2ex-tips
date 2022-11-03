@@ -8,6 +8,8 @@
 
 ## 列表
 
+- [[/t/825679] block 过于激烈？ red 过于刺眼？要不试试 tag](https://www.v2ex.com/t/825679)
+
 - [[/t/883252] V2exOS - 用 SwiftUI 写了一个 V2EX 客户端](https://www.v2ex.com/t/883252)
 
 - [[/t/851399] 分享一款自用的 V2EX 仿微信风格 CSS](https://www.v2ex.com/t/851399)
