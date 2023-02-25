@@ -33,7 +33,7 @@
 
 - [[/t/822020] 分享一个能看每天 V2EX 最热的网站，又一个 V2HOT 来了](https://www.v2ex.com/t/822020)
 
-  - [https://github.com/v2hot/v2hot.github.io](https://github.com/v2hot/v2hot.github.io)
+  - [https://github.com/v2hot/v2hot-about](https://github.com/v2hot/v2hot-about)
 
 - **客户端**
 
@@ -43,8 +43,9 @@
 
 - [[/t/293527] 关于 V2EX 支持的两种发贴语法的区别](https://www.v2ex.com/t/293527)
 
-- [[/t/267300] V2EX plus 扩展要迁移项目地址并升级到 1.0 版啦！](https://www.v2ex.com/t/267300)
+- [[/t/919083] V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083)
 
+  - [[/t/267300] V2EX plus 扩展要迁移项目地址并升级到 1.0 版啦！](https://www.v2ex.com/t/267300)
   - [[/t/198074] 可能是 V2EX 最好用的插件](https://www.v2ex.com/t/198074)
   - [https://github.com/sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus)
 
@@ -64,19 +65,19 @@
 
 V2HOT 是可以免费查看每日 V2EX 最热主题历史记录的网站。
 
-欢迎[点赞](https://github.com/v2hot/v2hot.github.io)，收藏。
+欢迎[点赞](https://github.com/v2hot/v2hot-about)，收藏。
 
-GitHub: <https://github.com/v2hot/v2hot.github.io>
+GitHub: <https://github.com/v2hot/v2hot.github.io> (已不能访问)
 
 可以通过下列域名访问，选择访问最快的域名。
 
-- <https://v2hot.github.io/>
 - <https://v2hot.pipecraft.net/>
 - <https://v2exhot.web.app/>
 - <https://v2hot.now.sh/>
 - <https://v2hot.vercel.app/>
 - <https://v2exhot.now.sh/>
 - <https://v2exhot.vercel.app/>
+- <https://v2hot.github.io/> (已不能访问)
 
 ## 🔧 好工具周刊 📩
 
