@@ -8,6 +8,8 @@
 
 ## 列表
 
+- [`[/t/924103]` 🏷️ 开源一个提升摸鱼乐趣的油猴脚本/浏览器扩展 - 小鱼标签（UTags）](https://www.v2ex.com/t/924103)
+
 - [`[/t/895946]` 我写了一个 V2EX 图片灯箱油猴插件](https://www.v2ex.com/t/895946)
 
 - [`[/t/825679]` block 过于激烈？ red 过于刺眼？要不试试 tag](https://www.v2ex.com/t/825679)
@@ -104,5 +106,7 @@ Copyright (c) 2022 [Pipecraft](https://www.pipecraft.net). Licensed under the [C
 ## >\_
 
 [![Pipecraft](https://img.shields.io/badge/site-pipecraft-brightgreen)](https://www.pipecraft.net)
+[![V2HOT](https://img.shields.io/badge/site-V2HOT-brightgreen)](https://v2hot.pipecraft.net)
+[![UTags](https://img.shields.io/badge/site-UTags-brightgreen)](https://utags.pipecraft.net)
 [![BestXTools](https://img.shields.io/badge/site-bestxtools-brightgreen)](https://www.bestxtools.com)
 [![DTO](https://img.shields.io/badge/site-DTO-brightgreen)](https://dto.pipecraft.net)
