@@ -8,7 +8,16 @@
 
 ## 列表
 
+- [`[/t/930514]` 油猴脚本“V2EX - 超级增强”：体验更现代化的 V2EX！](https://www.v2ex.com/t/930514)
+
+- [`[/t/930155]` ✨ V2EX 超强浏览器扩展：体验更先进的 V2EX！](https://www.v2ex.com/t/930155)
+
 - [`[/t/924103]` 🏷️ 开源一个提升摸鱼乐趣的油猴脚本/浏览器扩展 - 小鱼标签（UTags）](https://www.v2ex.com/t/924103)
+
+- **滥用 AI 回复会被 ban**
+
+  - [`[/t/925818]` GPT 生成的内容确实需要 Ban](https://www.v2ex.com/t/925818)
+  - [`[/t/900131]` 请问有没有办法在 V2EX 屏蔽 chatGPT 回复？](https://www.v2ex.com/t/900131)
 
 - [`[/t/895946]` 我写了一个 V2EX 图片灯箱油猴插件](https://www.v2ex.com/t/895946)
 
@@ -50,6 +59,10 @@
   - [`[/t/267300]` V2EX plus 扩展要迁移项目地址并升级到 1.0 版啦！](https://www.v2ex.com/t/267300)
   - [`[/t/198074]` 可能是 V2EX 最好用的插件](https://www.v2ex.com/t/198074)
   - [https://github.com/sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus)
+
+- [`[/t/561180]` V2EX 不是网络暴力的容器](https://www.v2ex.com/t/561180)
+
+- [`[/t/130362]` 强烈推荐 V2EX 增加删除自己回复或者帖子的功能](https://www.v2ex.com/t/130362)
 
 - [`[/t/99225]` 关于在 V2EX 过滤信息的几种方式](https://www.v2ex.com/t/99225)
 
