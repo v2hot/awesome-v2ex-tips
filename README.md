@@ -11,6 +11,7 @@
 - **注册账号**
 
   - [`[/t/1144985]` 20250713 - Solana 登录和注册支持已经部署并开启](https://www.v2ex.com/t/1144985) （不需要邀请码）
+    - 如果你还没有 V2EX 账号，你可以[使用 Solana 地址注册新的 V2EX 账号](https://www.v2ex.com/solana/signup)。注册时钱包里需要持有数量为 10,000 的 V2EX Coin 代币。你可以从下面的链接通过 SOL 获得 V2EX Coin 代币。
 
 - **浏览器扩展与油猴脚本**
 
@@ -27,6 +28,11 @@
   - [`[/t/825679]` block 过于激烈？ red 过于刺眼？要不试试 tag](https://www.v2ex.com/t/825679) (`小鱼标签（UTags）灵感来源`)
 
   - [`[/t/848726]` 写了个油猴脚本让 V2EX 拥有 SPA 单页的无刷新类似路由切换页面的 Feel](https://www.v2ex.com/t/848726)
+
+  - [`[/t/919083]` V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083)
+    - [`[/t/267300]` V2EX plus 扩展要迁移项目地址并升级到 1.0 版啦！](https://www.v2ex.com/t/267300)
+    - [`[/t/198074]` 可能是 V2EX 最好用的插件](https://www.v2ex.com/t/198074)
+    - [https://github.com/sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus)
 
 - **滥用 AI 回复会被 ban**
 
@@ -64,12 +70,6 @@
 - [`[/t/1051800]` 如何收藏未知的节点； v 站有哪些有趣的节点？](https://www.v2ex.com/t/1051800) (`收藏水深火热节点方法`)
 
 - [`[/t/293527]` 关于 V2EX 支持的两种发贴语法的区别](https://www.v2ex.com/t/293527)
-
-- [`[/t/919083]` V2EX Plus 扩展升级到 2.0 版本了](https://www.v2ex.com/t/919083)
-
-  - [`[/t/267300]` V2EX plus 扩展要迁移项目地址并升级到 1.0 版啦！](https://www.v2ex.com/t/267300)
-  - [`[/t/198074]` 可能是 V2EX 最好用的插件](https://www.v2ex.com/t/198074)
-  - [https://github.com/sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus)
 
 - [`[/t/561180]` V2EX 不是网络暴力的容器](https://www.v2ex.com/t/561180)
 
