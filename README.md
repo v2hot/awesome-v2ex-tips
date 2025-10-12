@@ -97,6 +97,14 @@
 
 - [About V2EX](https://www.v2ex.com/about)
 
+## 有趣的节点
+
+- [分享创造](https://www.v2ex.com/go/create) - 欢迎你在这里发布自己的最新作品！
+- [分享发现](https://www.v2ex.com/go/share) - 分享你看到的好玩的，有信息量的，欢迎从这里获取灵感。
+- [528491](https://www.v2ex.com/go/528491) - This is the off world. Use your imagination.
+- [水深火热](https://www.v2ex.com/go/flamewar) - 水深火热
+- [全球工单系统](https://www.v2ex.com/go/gts) - 希望这里能够为你遇到的问题找到解决方案
+
 ## 🔥 V2HOT - 每日 V2EX 最热主题 🔥 (暂停服务)
 
 V2HOT 是可以免费查看每日 V2EX 最热主题历史记录的网站。
